@@ -1,4 +1,4 @@
-## Project title
+## TPCH Dataset
 This is a version of TPCH Dataset made available to be used in a variety of benchmark tests
 
 ## Motivation
