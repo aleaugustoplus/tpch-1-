@@ -1,5 +1,6 @@
 ## TPCH Dataset
 This is a version of TPCH Dataset made available to be used in a variety of benchmark tests
+!(logo)[http://www.tpc.org/tpc_common_library/images/tpc-header-image2.jpg]
 
 ## Motivation
 This is a tabular classic dataset used in the TPC benchmark 
